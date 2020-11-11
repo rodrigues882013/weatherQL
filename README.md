@@ -1,2 +1,2 @@
 # weatherQL
-Simple query language to weather forecast datasources.
+Simple query language for weather forecast data sources.
